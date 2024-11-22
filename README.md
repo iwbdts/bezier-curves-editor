@@ -26,7 +26,7 @@ A graphical simulator for creating and visualizing Bezier curves. This project a
 1. Clone this repository:
    ```bash
    git clone https://github.com/iwbdts/bezier-curves-editor
-   cd bezier-curve-editor
+   cd bezier-curves-editor
    ```
 
 2. Install the required dependencies:
