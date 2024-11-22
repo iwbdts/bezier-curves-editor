@@ -4,7 +4,7 @@ Here is a sample README file for your Bezier Curve Simulator project, formatted 
 
 # Bezier Curve Simulator
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)  
+![Python](https://img.shields.io/badge/Python-3.9.2-blue)  
 A graphical simulator for creating and visualizing Bezier curves. This project allows users to draw, manipulate, and interact with Bezier curves in real time using Python and Pygame.
 
 ---
@@ -25,8 +25,8 @@ A graphical simulator for creating and visualizing Bezier curves. This project a
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/iwbdts/bezier-curve-simulator.git
-   cd bezier-curve-simulator
+   git clone https://github.com/iwbdts/bezier-curves-editor
+   cd bezier-curve-editor
    ```
 
 2. Install the required dependencies:
